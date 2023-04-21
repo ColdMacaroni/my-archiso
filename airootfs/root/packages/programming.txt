@@ -1,0 +1,6 @@
+code
+jdk17-openjdk
+openjdk17-doc
+obsidian
+python
+rustup

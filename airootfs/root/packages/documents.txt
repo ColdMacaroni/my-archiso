@@ -1,0 +1,7 @@
+gimp
+kolourpaint
+krita
+libreoffice
+okular
+pandoc
+texlive-most

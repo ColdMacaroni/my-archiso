@@ -1,0 +1,13 @@
+cowsay
+cups
+ffmpeg
+git
+htop
+imagemagick
+lolcat
+neofetch
+sane
+tealdeer
+tmux
+unzip
+zip

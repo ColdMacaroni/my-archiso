@@ -1,0 +1,15 @@
+base
+base-devel
+intel-ucode
+linux
+linux-firmware
+man-db
+man-pages
+neovim
+networkmanager
+openssh
+pipewire
+pipewire-pulse
+sudo
+texinfo
+zsh

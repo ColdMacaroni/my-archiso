@@ -1,0 +1,17 @@
+firefox
+flameshot
+intel-media-driver
+kitty
+libadwaita
+light
+mesa
+opensnitch
+redshift
+vulkan-intel
+xclip
+xdg-user-dirs
+xdg-utils
+xdotool
+xorg-server
+xorg-xinput
+xorg-xset

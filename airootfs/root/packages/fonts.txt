@@ -1,0 +1,3 @@
+gnu-free-fonts
+ttf-inconsolata-nerd
+ttf-joymoji

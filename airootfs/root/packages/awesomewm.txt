@@ -1,0 +1,9 @@
+awesome
+chezmoi
+light-locker
+lightdm
+lightdm-webkit2-greeter
+picom
+qt5-base
+rofi
+rofi-emoji
