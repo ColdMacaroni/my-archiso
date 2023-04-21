@@ -73,6 +73,7 @@ nfs-utils
 nilfs-utils
 nmap
 ntfs-3g
+neovim
 nvme-cli
 open-iscsi
 open-vm-tools
