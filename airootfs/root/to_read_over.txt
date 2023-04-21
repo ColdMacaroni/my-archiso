@@ -1,0 +1,28 @@
+# Hardware stuff
+
+Laptop			https://wiki.archlinux.org/title/Laptop
+Hardware Acceleration	https://wiki.archlinux.org/title/Hardware_video_acceleration#Configuration
+SSD			https://wiki.archlinux.org/title/Solid_state_drive
+Improving Performance	https://wiki.archlinux.org/title/Improving_performance
+
+## Power
+
+Power Management	https://wiki.archlinux.org/title/Power_management
+CPU Scaling		https://wiki.archlinux.org/title/CPU_frequency_scaling
+Powertop		https://wiki.archlinux.org/title/Powertop
+Optimising for Laptop	https://old.reddit.com/r/archlinux/comments/ms3waf/optimizing_arch_linux_for_laptops/
+Maximise Battery	https://old.reddit.com/r/archlinux/comments/wvf34b/what_do_you_do_to_maximize_battery_life_on_your/
+
+## GPU Switching
+
+PRIME			https://wiki.archlinux.org/title/PRIME
+Optimus			https://wiki.archlinux.org/title/NVIDIA_Optimus
+
+## Technically Software
+
+Microcode		https://wiki.archlinux.org/title/Microcode
+
+# Software Stuff
+
+Playerctl		https://wiki.archlinux.org/title/MPRIS
+Security		https://wiki.archlinux.org/title/Security

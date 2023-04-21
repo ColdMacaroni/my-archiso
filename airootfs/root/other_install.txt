@@ -1,0 +1,2 @@
+lvim	https://www.lunarvim.org/
+yay	https://aur.archlinux.org/packages/yay
